@@ -1,0 +1,34 @@
+/*body{
+  background: #ff72dd80;
+  color: #000000;
+}
+
+.panel-body{
+  background: #ff72ddb3;
+}
+*/
+
+p {
+  font-size: 1rem;
+  line-height: 1.5;
+  text-align: center;
+  padding-bottom: 10.5px;
+}
+
+.pm {
+  font-size: 2rem;
+  text-align: left;
+  font-weight: bold;
+  padding-left: 20px;
+  padding-top: 10px;
+  border: 0.5px solid #ccc;
+  background-color: #c5ced8;
+}
+.marquee{
+    font-size: 2rem;
+    height: 25px;
+    font-weight: bold;
+    max-width: 91%;
+    color: #ff0000;
+    padding-top: 3px;
+}
